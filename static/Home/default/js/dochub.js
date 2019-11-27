@@ -5,7 +5,7 @@
  * */
 'use strict';
 $(function(){
-    console.log("Powered By DocHub");
+    console.log("Powered By 核武创研组");
 
     
     $(".go-top").click(function(){
